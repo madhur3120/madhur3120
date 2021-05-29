@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhur3120
-- 👀 I’m interested in Competitive Programming and Public Speaking
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on various codes on application.
+- 👀 I’m interested in Competitive Programming, Game development and Web Development.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💞️ Do check out my repositories.
 
 <!---
 madhur3120/madhur3120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
