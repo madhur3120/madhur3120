@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Madhur Saxena</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="madhur3120" height=200px  /> </p>
 
 <p align="left"> <a href="https://twitter.com/madhursaxena_" target="blank"><img src="https://img.shields.io/twitter/follow/madhursaxena_?logo=twitter&style=for-the-badge" alt="madhursaxena_" /></a> </p>
 
