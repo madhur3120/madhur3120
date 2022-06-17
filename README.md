@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Madhur Saxena</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/madhursaxena_" target="blank"><img src="https://img.shields.io/twitter/follow/madhursaxena_?logo=twitter&style=for-the-badge" alt="madhursaxena_" /></a> </p>
