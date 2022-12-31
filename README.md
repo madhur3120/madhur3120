@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhur3120&" alt="madhur3120" /></p>
 
 
-### Github Stats-</br>
+### Github Stats: </br>
 <p align="center" float="left">
   <a href="https://github.com/madhur3120?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=madhur3120&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
