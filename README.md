@@ -22,8 +22,9 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhur3120&show_icons=true&locale=en" alt="madhur3120" /></p> -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhur3120&" alt="madhur3120" /></p>
+| ------------- | ------------- |
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhur3120&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhur's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur3120&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhur3120&" alt="madhur3120" /></p>
