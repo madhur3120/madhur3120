@@ -24,6 +24,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhur3120&" alt="madhur3120" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhur3120&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhur's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur3120&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhur3120&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhur's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur3120&layout=compact&theme=buefy&hide_border=true" /></a> | -->
+
+### Github Stats-</br>
+<p align="center" float="left">
+  <a href="https://github.com/madhur3120?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhur3120&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
+  </a>
+  <a href="https://github.com/madhur3120?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhur3120&show_icons=true&locale=en&layout=compact&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
+  </a>
+</p>
+
 | ------------- | ------------- |
 
