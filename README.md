@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/madhursaxena_" target="blank"><img src="https://img.shields.io/twitter/follow/madhursaxena_?logo=twitter&style=for-the-badge" alt="madhursaxena_" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs and Advanced JavaScript**
-
-- 💬 Ask me about **C++, JavaScript, Express, HTML, CSS, MySQL.**
+- 💬 Ask me about **NodeJS, JavaScript, Express, MySQL, MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/madhur312/**
 
