@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/madhursaxena_" target="blank"><img src="https://img.shields.io/twitter/follow/madhursaxena_?logo=twitter&style=for-the-badge" alt="madhursaxena_" /></a> </p>
 
-- 💬 Ask me about **NodeJS, JavaScript, Express, React, Redux, MySQL, MongoDB**
+- 💬 Inquire about my expertise in **system design, backend & full-stack development spanning NodeJS, JavaScript frameworks, and various databases!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/madhur312/**
 
