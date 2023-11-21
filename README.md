@@ -1,9 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Madhur Saxena</h1>
-<h3 align="center">Web Developer</h3>
-
-
-<p align="left"> <a href="https://twitter.com/madhursaxena_" target="blank"><img src="https://img.shields.io/twitter/follow/madhursaxena_?logo=twitter&style=for-the-badge" alt="madhursaxena_" /></a> </p>
+<h1 align="center">Madhur Saxena</h1>
 
 - 💬 Inquire about my expertise in **system design, backend & full-stack development spanning NodeJS, JavaScript frameworks, and various databases!**
 
