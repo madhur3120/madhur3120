@@ -1,7 +1,7 @@
 
 <h1 align="center">Madhur Saxena</h1>
 
-- 💬 Inquire about my expertise in **system design, backend & full-stack development spanning NodeJS, JavaScript frameworks, and various databases!**
+- 💬 Inquire about my expertise in **system design, backend development and various databases!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/madhur312/**
 
